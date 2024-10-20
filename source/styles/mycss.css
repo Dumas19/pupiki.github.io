@@ -1,0 +1,22 @@
+body {
+    background-color: brown;
+}
+.nav-link {
+    color: #ff6b6b; /* Розоватый */
+}
+.navbar-nav .nav-link.active {
+    color: #4a4e69; /* Темно-синий */
+}
+.navbar-brand img {
+    width: 80px;
+}
+.navbar-toggler {
+    background-color: #fff;
+}
+.sidebar {
+    color: #ff6b6b; /* Розоватый */
+}
+.description-text {
+    margin-left: 80px; 
+    margin-top: 250px;
+}
